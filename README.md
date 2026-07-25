@@ -1,119 +1,162 @@
-# Savan Kumar
-
-> Software Engineer • Backend Developer • AI Enthusiast
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Savan%20Kumar&fontColor=ffffff&fontSize=48"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Savan%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Backend%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Software+Engineer;Backend+Developer;Python+Developer;AI+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=savan234k&style=for-the-badge&color=6A5ACD)
-![Followers](https://img.shields.io/github/followers/savan234k?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/savan234k?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=100&lines=Building+Scalable+Software;Python+%7C+Java+%7C+Django+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-MCA student passionate about backend engineering, Python, Java, SQL, Django, and AI-driven software. I enjoy building practical applications and continuously improving my software engineering skills.
+![](https://img.shields.io/badge/MCA-2026-6A5ACD?style=for-the-badge&logo=google-scholar&logoColor=white)
 
-### Open To
+![](https://img.shields.io/badge/Bangalore-India-7B68EE?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-- Software Engineer
-- Backend Developer
-- Python Developer
-- AI/ML Roles
-- Open Source
+![](https://img.shields.io/badge/Open%20To-Software%20Engineering-4B0082?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:savan234k@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/savan-kumar-423441409">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/savan234k">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=savan234k&style=for-the-badge&color=blueviolet)
+
+![](https://img.shields.io/github/followers/savan234k?style=for-the-badge&color=6A5ACD)
+
+![](https://img.shields.io/github/stars/savan234k?affiliations=OWNER&style=for-the-badge&color=8A2BE2)
+
+</div>
+
+---
+
+# About Me
+
+```text
+Software Engineer | Backend Developer | AI Enthusiast
+```
+
+I am an **MCA student** passionate about designing scalable software systems and building practical applications using modern technologies.
+
+My interests include backend engineering, artificial intelligence, full-stack web development, database systems, and software architecture. I enjoy solving real-world problems through clean code, continuous learning, and hands-on projects.
+
+I believe great software comes from understanding problems deeply, writing maintainable code, and constantly improving engineering skills.
+
+---
+
+## Open To
+
+✔ Software Engineer
+
+✔ Backend Developer
+
+✔ Python Developer
+
+✔ Java Developer
+
+✔ AI / ML Engineer
+
+✔ Open Source Contributor
+
+✔ Full Stack Developer
 
 ---
 
 # Tech Stack
 
+## Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,django,php,mysql,git,github,vscode,linux"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,sql"/>
+
 </p>
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Level | Focus |
-|---|---|---|
-| Python | Advanced | OOP, Automation |
-| SQL | Advanced | Database Design |
-| Django | Intermediate | Backend |
-| AI | Intermediate | AI Applications |
-| ML | Intermediate | Fundamentals |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>Hostel Management System</b></summary>
-
-Built using PHP, MySQL, HTML, CSS and JavaScript with student registration, room allocation and fee management.
-
-</details>
-
-<details>
-<summary><b>Django E-Commerce Website</b></summary>
-
-Built using Django, Python and MySQL with authentication, shopping cart and order management.
-
-</details>
-
----
-
-# GitHub Analytics
+## Frontend
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=savan234k&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan234k&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=savan234k&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=savan234k&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
 
 ---
 
-# Current Focus
+## Backend
 
-```yaml
-learning:
-  - Advanced Python
-  - Django REST Framework
-  - AI
-building:
-  - Backend Applications
-  - AI Projects
-open_to:
-  - Software Engineering
-  - Backend Roles
-```
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,php"/>
+
+</p>
 
 ---
 
-# Connect
+## Database
 
-- Email: savan234k@gmail.com
-- LinkedIn: https://www.linkedin.com/in/savan-kumar-423441409
-- GitHub: https://github.com/savan234k
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# Engineering Principles
+
+- Clean Code
+- Problem Solving
+- Scalable Architecture
+- Continuous Learning
+- Team Collaboration
+- Software Engineering Best Practices
 
 ---
 
 <div align="center">
 
-*"Code with purpose. Learn continuously. Build meaningful software."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
+> *"Code with purpose. Learn relentlessly. Build software that creates impact."*
 
 </div>
+
+---
