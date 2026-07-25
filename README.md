@@ -160,3 +160,336 @@ I believe great software comes from understanding problems deeply, writing maint
 </div>
 
 ---
+# AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Technologies |
+|:-------|:-----------:|-------------|
+| Python Development | ██████████ | OOP, File Handling, Automation |
+| Backend Engineering | █████████ | Django, REST APIs |
+| Database Systems | █████████ | MySQL, SQL |
+| Artificial Intelligence | ████████ | AI Applications, Prompt Engineering |
+| Machine Learning | ███████ | Scikit-Learn, Data Preprocessing |
+| Web Development | █████████ | HTML, CSS, JavaScript |
+
+</div>
+
+---
+
+# Professional Expertise
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Backend Engineering
+
+- Python
+- Django
+- REST APIs
+- Authentication
+- Database Design
+- MVC Architecture
+- API Development
+- Software Design
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+- Git & GitHub
+- Clean Code
+- Debugging
+- Version Control
+- SDLC
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Featured Projects
+
+<details>
+
+<summary>
+
+## 🏨 Hostel Management System
+
+</summary>
+
+### Overview
+
+A complete hostel administration platform designed to simplify student accommodation management through automation.
+
+---
+
+| Feature | Description |
+|----------|-------------|
+| Language | PHP |
+| Database | MySQL |
+| Frontend | HTML, CSS, JavaScript |
+| Architecture | Multi-module Web Application |
+| Authentication | Secure Login |
+| CRUD Operations | Yes |
+| Admin Dashboard | Yes |
+
+---
+
+### Key Modules
+
+- Student Registration
+
+- Room Allocation
+
+- Fee Management
+
+- Admin Dashboard
+
+- Student Records
+
+- Database Management
+
+- Authentication
+
+---
+
+### Engineering Highlights
+
+- Optimized MySQL queries
+
+- Relational database design
+
+- Responsive interface
+
+- Modular PHP implementation
+
+- Clean project structure
+
+---
+
+### Impact
+
+Reduced manual paperwork while improving hostel administration efficiency.
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🛒 Django E-Commerce Platform
+
+</summary>
+
+### Overview
+
+An e-commerce application built using Django following modern backend development practices.
+
+---
+
+| Feature | Description |
+|----------|-------------|
+| Language | Python |
+| Framework | Django |
+| Database | MySQL |
+| Authentication | Django Auth |
+| Admin Panel | Included |
+| Shopping Cart | Yes |
+| Orders | Database Driven |
+
+---
+
+### Features
+
+- Secure User Login
+
+- Product Management
+
+- Shopping Cart
+
+- Checkout System
+
+- Order Management
+
+- Admin Dashboard
+
+---
+
+### Engineering Highlights
+
+- Django ORM
+
+- MVC Architecture
+
+- Authentication System
+
+- Database Optimization
+
+- Modular Codebase
+
+---
+
+### Future Improvements
+
+- Payment Gateway
+
+- REST API
+
+- Docker Deployment
+
+- Cloud Hosting
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🤖 AI Engineering Journey
+
+</summary>
+
+### Currently Working On
+
+| Project | Status |
+|----------|--------|
+| AI Automation | 🚧 In Progress |
+| Python Automation | 🚧 In Progress |
+| AI Backend Projects | 🚧 In Progress |
+| Machine Learning | 🚧 Learning |
+
+---
+
+### Future Goals
+
+- AI SaaS Applications
+
+- Intelligent Automation
+
+- Recommendation Systems
+
+- LLM Applications
+
+- AI APIs
+
+</details>
+
+---
+
+# Development Workflow
+
+```text
+Requirement Analysis
+        │
+        ▼
+ System Design
+        │
+        ▼
+ Database Design
+        │
+        ▼
+ Backend Development
+        │
+        ▼
+ Frontend Integration
+        │
+        ▼
+ Testing
+        │
+        ▼
+ Deployment
+```
+
+---
+
+# Experience
+
+## 🎓 MCA Student Developer
+
+**Seshadripuram First Grade College**
+
+**2024 – Present**
+
+Focused on strengthening software engineering fundamentals through academic learning and practical development.
+
+### Responsibilities
+
+- Backend Development
+
+- Database Design
+
+- Python Programming
+
+- Java Development
+
+- Software Engineering
+
+- AI Learning
+
+- Project Development
+
+- Git Version Control
+
+---
+
+### Skills Applied
+
+`Python`
+
+`Java`
+
+`Django`
+
+`PHP`
+
+`MySQL`
+
+`Git`
+
+`GitHub`
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|--------------|---------|
+| 🎓 MCA Student | Computer Applications |
+| 💻 Software Projects | Multiple Academic Projects |
+| 🚀 Backend Developer | Django & PHP |
+| 🤖 AI Enthusiast | Continuous Learning |
+| 🌱 Open Source Journey | Building GitHub Portfolio |
+
+</div>
+
+---
+
+# Engineering Philosophy
+
+> Build software that is **simple, scalable, maintainable, and meaningful.**
+
+---
