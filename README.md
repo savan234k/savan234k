@@ -242,3 +242,126 @@ Linux
 ```
 
 ---
+
+# GITHUB DASHBOARD
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=savan234k&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+
+</td>
+
+<td>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan234k&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=savan234k&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=savan234k&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=savan234k&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# ENGINEERING MINDSET
+
+<div align="center">
+
+| Focus | Description |
+|:------|:------------|
+| 🧩 Problem Solving | Build solutions instead of shortcuts |
+| ⚙ Backend Engineering | Reliable and maintainable systems |
+| 🚀 Continuous Learning | Improve every single day |
+| 🤖 Artificial Intelligence | Build practical AI applications |
+| 📚 Software Engineering | Clean architecture and scalable code |
+
+</div>
+
+---
+
+# CURRENT TECH FOCUS
+
+<div align="center">
+
+```text
+███████████████████████████████
+
+Python            ██████████
+
+Java              █████████░
+
+SQL               ██████████
+
+Django            ████████░░
+
+JavaScript        ███████░░░
+
+Artificial Intelligence
+                 ███████░░░
+
+Machine Learning
+                 ██████░░░░
+
+System Design
+                 █████░░░░░
+
+███████████████████████████████
+```
+
+</div>
+
+---
+
+# 2026 ROADMAP
+
+```text
+✓ Master Python
+
+✓ Become Backend Engineer
+
+✓ Learn REST APIs
+
+✓ Build AI Projects
+
+✓ Contribute to Open Source
+
+✓ Learn Docker
+
+✓ Learn Cloud
+
+✓ Crack Software Engineer Role
+```
+
+---
