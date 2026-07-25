@@ -61,3 +61,184 @@ goal:
 ```
 
 ---
+# PROJECTS
+
+<div align="center">
+
+## 🚀 Featured Work
+
+</div>
+
+<br>
+
+### ████████████████████████████████████████████
+
+# 🏨 Hostel Management System
+
+> **A modern hostel administration platform built to digitize student accommodation management.**
+
+```text
+Backend      PHP
+Database     MySQL
+Frontend     HTML • CSS • JavaScript
+Architecture MVC
+```
+
+### Highlights
+
+✓ Student Registration
+
+✓ Room Allocation
+
+✓ Fee Management
+
+✓ Authentication System
+
+✓ Admin Dashboard
+
+✓ CRUD Operations
+
+✓ Database Integration
+
+---
+
+### Engineering Focus
+
+```
+✔ Clean Database Design
+
+✔ Modular Architecture
+
+✔ Responsive UI
+
+✔ Optimized SQL Queries
+
+✔ Scalable Structure
+```
+
+<br>
+
+---
+
+<br>
+
+### ████████████████████████████████████████████
+
+# 🛒 Django E-Commerce
+
+> **A full-stack shopping platform designed using Django and MySQL following modern backend practices.**
+
+```text
+Language      Python
+
+Framework     Django
+
+Database      MySQL
+
+Authentication Django Auth
+```
+
+### Features
+
+✓ User Authentication
+
+✓ Product Catalog
+
+✓ Shopping Cart
+
+✓ Order Management
+
+✓ Admin Dashboard
+
+✓ Secure Login
+
+---
+
+### Engineering Focus
+
+```
+✔ Django ORM
+
+✔ Authentication
+
+✔ Clean Architecture
+
+✔ Database Optimization
+
+✔ Scalable Codebase
+```
+
+<br>
+
+---
+
+<br>
+
+### ████████████████████████████████████████████
+
+# 🤖 AI Journey
+
+Currently building practical AI applications while learning modern machine learning techniques.
+
+```
+Python Automation
+
+AI Applications
+
+Machine Learning
+
+Prompt Engineering
+
+Backend AI Integration
+```
+
+---
+
+## Philosophy
+
+> **"Every project should solve a real problem, remain maintainable, and scale with future requirements."**
+
+---
+
+# TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,django,php,mysql,html,css,js,git,github,vscode&perline=6"/>
+
+</div>
+
+---
+
+# CURRENT TOOLBOX
+
+```text
+Languages
+──────────────
+
+Python
+Java
+SQL
+JavaScript
+
+Frameworks
+──────────────
+
+Django
+PHP
+
+Database
+──────────────
+
+MySQL
+
+Developer Tools
+──────────────
+
+Git
+GitHub
+VS Code
+Linux
+```
+
+---
