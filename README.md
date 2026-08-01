@@ -1,160 +1,93 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:111827,20:1E1B4B,45:312E81,70:5B21B6,100:8B5CF6&text=Savan%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Backend%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Savan Kumar
 
-<br>
+### AI & Full Stack Developer
 
-# Building software that is simple, scalable and intelligent.
-
-<p>
-
-Backend Engineering • Python • Java • Django • Artificial Intelligence
-
-</p>
-
-<p>
-
-<a href="mailto:savan234k@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/savan234k">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/savan-kumar-423441409">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Python+Developer;React+%7C+FastAPI+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications" />
 
 </div>
 
 ---
 
-## About
-
-I'm an MCA student who enjoys building backend systems, experimenting with AI, and writing clean, maintainable software.
-
-I like solving practical problems with Python, Java, Django and SQL while continuously improving my engineering fundamentals.
-
-Current focus:
-
-- Backend Engineering
-- Artificial Intelligence
-- Data Structures & Algorithms
-- Software Engineering
-
----
-
-## Technology
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,django,php,mysql,git,github,html,css,js,vscode,linux"/>
-
-</div>
-
----
-
-## Featured Projects
-
-### Hostel Management System
-
-Modern hostel administration platform.
-
-PHP • MySQL • JavaScript
-
-Student Registration
-
-Room Allocation
-
-Fee Management
-
-Authentication
-
-Admin Dashboard
-
----
-
-### Django E-Commerce
-
-Complete shopping application.
-
-Python • Django • MySQL
-
-Authentication
-
-Shopping Cart
-
-Order Management
-
-Admin Panel
-
----
-
-### Currently Building
-
-Artificial Intelligence
-
-Backend APIs
-
-Python Automation
-
-Machine Learning
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=savan234k&show_icons=true&hide_border=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan234k&layout=compact&hide_border=true&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=savan234k&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Current Mission
+## 👨‍💻 About Me
 
 ```yaml
-Learning:
+Name: Savan Kumar
 
-- Advanced Python
+Role: AI & Full Stack Developer
 
-- AI
+Education: Master of Computer Applications (MCA)
 
-- Machine Learning
+Location: India
 
-Building:
+Current Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Machine Learning
+  - Large Language Models
 
-- Portfolio Projects
+Currently Learning:
+  - Advanced React
+  - FastAPI
+  - AI Agents
+  - System Design
 
-- Backend Systems
-
-- Open Source Projects
-
-Goal:
-
-- Software Engineer
+Open To:
+  - Full-Time Opportunities
+  - Internship Opportunities
+  - Open Source Collaboration
 ```
 
 ---
 
-<div align="center">
+## 🚀 Tech Stack
 
-"Keep building. Keep learning. Stay curious."
+### Languages
 
-</div>
+<p align="left">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:111827,30:312E81,70:5B21B6,100:8B5CF6"/>
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
+<img src="https://skillicons.dev/icons?i=java" height="48"/>
+<img src="https://skillicons.dev/icons?i=js" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+
+</p>
+
+---
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react" height="48"/>
+<img src="https://skillicons.dev/icons?i=html" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" height="48"/>
+
+</p>
+
+---
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi" height="48"/>
+<img src="https://skillicons.dev/icons?i=django" height="48"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+<img src="https://skillicons.dev/icons?i=postman" height="48"/>
+
+</p>
+
+---
